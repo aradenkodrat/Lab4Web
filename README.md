@@ -1,4 +1,27 @@
-Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, portfolio, dll 
+1).Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, portfolio, dll 
+![pemograman about](https://user-images.githubusercontent.com/101814131/162435788-98b4e2c7-3ed1-40d2-b975-a45cebf557dc.png)
+ ke2
+ ![pemograman about2](https://user-images.githubusercontent.com/101814131/162435869-225a81a4-5551-43a5-9f35-30f6ac06096c.png)
+ ke3
+ ![pemograman about3](https://user-images.githubusercontent.com/101814131/162435933-2d99a582-5188-4fbb-aa80-e0018a8cdd2a.png)
+ ke4
+ ![pemograman about4](https://user-images.githubusercontent.com/101814131/162436020-d93cbbf8-0e05-4d76-a58b-214f392c483c.png)
+ 2). Tambahkan Layout untuk menu Kontak => yang berisi from isian : nama,email,message dll
+ ![pemograman kontak](https://user-images.githubusercontent.com/101814131/162436432-66411143-3111-4dbd-b491-49d17922f6f0.png)
+ ke2
+ ![pemograman kontak2](https://user-images.githubusercontent.com/101814131/162436504-66b15ce4-dc65-47b5-b129-aade00f37dd5.png)
+ ke 3
+ ![pemograman kontak3](https://user-images.githubusercontent.com/101814131/162436564-531a3ae5-1656-4817-8b24-22ebd1a14e0c.png)
+ ke 4
+ ![pemograman kontak4](https://user-images.githubusercontent.com/101814131/162436615-986313c5-d266-4216-9101-940a6baac77e.png)
+
+
+
+
+
+
+
+
   
   
   
